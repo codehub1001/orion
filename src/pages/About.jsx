@@ -20,7 +20,7 @@ const team = [
     name: "Francis Ifeanyi",
     role: "UI/UX Designer",
     photo: "https://randomuser.me/api/portraits/women/65.jpg",
-    bio: "Francis crafts user-friendly digital experiences with elegance and clarity. She ensures that every interface is not only beautiful but intuitive, with the user at the center.",
+    bio: "Francis crafts user-friendly digital experiences with elegance and clarity. he ensures that every interface is not only beautiful but intuitive, with the user at the center.",
     socials: {
       linkedin: "https://linkedin.com/in/francis",
       twitter: "https://twitter.com/francis",
@@ -44,7 +44,7 @@ const team = [
     name: "Chibuzor emekalam",
     role: "Back-End Developer",
     photo: "https://randomuser.me/api/portraits/women/44.jpg",
-    bio: "chibuzor specializes in building robust, scalable server-side applications. She is dedicated to optimizing system performance and ensuring reliable integration across platforms.",
+    bio: "chibuzor specializes in building robust, scalable server-side applications. he is dedicated to optimizing system performance and ensuring reliable integration across platforms.",
     socials: {
       linkedin: "https://linkedin.com/in/ngozi",
       twitter: "https://twitter.com/ngozi",
@@ -57,7 +57,7 @@ const team = [
     name: "Segun Adeniyi ",
     role: "WordPress Developer",
     photo: "https://randomuser.me/api/portraits/women/68.jpg",
-    bio: "Segun builds engaging, responsive WordPress websites with a focus on usability and SEO. She thrives on customizing themes and plugins to fit unique client needs.",
+    bio: "Segun builds engaging, responsive WordPress websites with a focus on usability and SEO. he thrives on customizing themes and plugins to fit unique client needs.",
     socials: {
       linkedin: "https://linkedin.com/in/amakanwosu",
       twitter: "https://twitter.com/amakanwosu",
