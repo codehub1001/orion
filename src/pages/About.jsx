@@ -7,12 +7,12 @@ const team = [
     id: 1,
     name: "Chukwuka Erondu",
     role: "Founder & Full stack Developer",
-    photo: "https://randomuser.me/api/portraits/men/45.jpg",
+    photo: "",
     bio: "Chukwuka brings years of full-stack experience. With deep expertise in scalable web systems, he's passionate about building impactful software that solves real business problems.",
     socials: {
       linkedin: "https://www.linkedin.com/in/chukwuka-erondu-4344232bb/",
       twitter: "https://twitter.com/chukwuka",
-      github: "https://github.com/chukwuka",
+      github: "https://github.com/codehub1001",
     },
   },
   {
@@ -43,7 +43,7 @@ const team = [
     id: 4,
     name: "Chibuzor emekalam",
     role: "Back-End Developer",
-    photo: "https://randomuser.me/api/portraits/women/44.jpg",
+    photo: "",
     bio: "chibuzor specializes in building robust, scalable server-side applications. he is dedicated to optimizing system performance and ensuring reliable integration across platforms.",
     socials: {
       linkedin: "",
@@ -56,7 +56,7 @@ const team = [
     id: 5,
     name: "Segun Adeniyi ",
     role: "WordPress Developer",
-    photo: "https://randomuser.me/api/portraits/women/68.jpg",
+    photo: "",
     bio: "Segun builds engaging, responsive WordPress websites with a focus on usability and SEO. he thrives on customizing themes and plugins to fit unique client needs.",
     socials: {
       linkedin: "",
@@ -68,7 +68,7 @@ const team = [
     id: 6,
     name: "Isreal Macualey",
     role: "Front-End Developer",
-    photo: "https://randomuser.me/api/portraits/men/56.jpg",
+    photo: "",
     bio: "Isreal specializes in crafting fast, accessible, and visually appealing front-end interfaces using React, TailwindCSS, and modern JavaScript.",
     socials: {
       linkedin: "",
