@@ -10,7 +10,7 @@ const team = [
     photo: "https://randomuser.me/api/portraits/men/45.jpg",
     bio: "Chukwuka brings years of full-stack experience. With deep expertise in scalable web systems, he's passionate about building impactful software that solves real business problems.",
     socials: {
-      linkedin: "https://linkedin.com/in/chukwuka",
+      linkedin: "https://www.linkedin.com/in/chukwuka-erondu-4344232bb/",
       twitter: "https://twitter.com/chukwuka",
       github: "https://github.com/chukwuka",
     },
@@ -19,22 +19,22 @@ const team = [
     id: 2,
     name: "Francis Ifeanyi",
     role: "UI/UX Designer",
-    photo: "https://randomuser.me/api/portraits/women/65.jpg",
+    photo: "/img/francis.jpg",
     bio: "Francis crafts user-friendly digital experiences with elegance and clarity. he ensures that every interface is not only beautiful but intuitive, with the user at the center.",
     socials: {
-      linkedin: "https://linkedin.com/in/francis",
-      twitter: "https://twitter.com/francis",
-      github: "https://github.com/francis",
+      linkedin: "",
+      twitter: "",
+      github: "",
     },
   },
   {
     id: 3,
     name: "Daniel Daystar",
     role: "Project Manager",
-    photo: "https://randomuser.me/api/portraits/men/52.jpg",
+    photo: "",
     bio: "Daniel coordinates projects from idea to launch. His strength lies in seamless collaboration, timely delivery, and ensuring both client satisfaction and product quality.",
     socials: {
-      linkedin: "https://linkedin.com/in/daniel",
+      linkedin: "",
       twitter: "",
       github: "",
     },
@@ -46,9 +46,9 @@ const team = [
     photo: "https://randomuser.me/api/portraits/women/44.jpg",
     bio: "chibuzor specializes in building robust, scalable server-side applications. he is dedicated to optimizing system performance and ensuring reliable integration across platforms.",
     socials: {
-      linkedin: "https://linkedin.com/in/ngozi",
-      twitter: "https://twitter.com/ngozi",
-      github: "https://github.com/ngozi",
+      linkedin: "",
+      twitter: "",
+      github: "",
     },
   },
   // New members added here
@@ -59,9 +59,9 @@ const team = [
     photo: "https://randomuser.me/api/portraits/women/68.jpg",
     bio: "Segun builds engaging, responsive WordPress websites with a focus on usability and SEO. he thrives on customizing themes and plugins to fit unique client needs.",
     socials: {
-      linkedin: "https://linkedin.com/in/amakanwosu",
-      twitter: "https://twitter.com/amakanwosu",
-      github: "https://github.com/amakanwosu",
+      linkedin: "",
+      twitter: "",
+      github: "",
     },
   },
   {
@@ -71,9 +71,9 @@ const team = [
     photo: "https://randomuser.me/api/portraits/men/56.jpg",
     bio: "Isreal specializes in crafting fast, accessible, and visually appealing front-end interfaces using React, TailwindCSS, and modern JavaScript.",
     socials: {
-      linkedin: "https://linkedin.com/in/emekaokeke",
-      twitter: "https://twitter.com/emekaokeke",
-      github: "https://github.com/emekaokeke",
+      linkedin: "",
+      twitter: "",
+      github: "",
     },
   },
 ];
